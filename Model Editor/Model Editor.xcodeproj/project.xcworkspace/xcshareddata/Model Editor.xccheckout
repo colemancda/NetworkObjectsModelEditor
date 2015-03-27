@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>884022D1-4779-4FBA-A5DC-A446F4C35BCF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Model Editor</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7E1D5AB11D6C2BA6B551BF9EBCCD6AA8FDF17BD8</key>
+		<string>https://github.com/colemancda/NetworkObjectsModelEditor.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Model Editor/Model Editor.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7E1D5AB11D6C2BA6B551BF9EBCCD6AA8FDF17BD8</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/colemancda/NetworkObjectsModelEditor.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7E1D5AB11D6C2BA6B551BF9EBCCD6AA8FDF17BD8</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7E1D5AB11D6C2BA6B551BF9EBCCD6AA8FDF17BD8</string>
+			<key>IDESourceControlWCCName</key>
+			<string>NetworkObjectsModelEditor</string>
+		</dict>
+	</array>
+</dict>
+</plist>
