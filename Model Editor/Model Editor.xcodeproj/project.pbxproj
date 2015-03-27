@@ -36,6 +36,7 @@
 		6E2DA3731AC5D7FD0072E988 /* Model EditorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Model EditorTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6E2DA3781AC5D7FD0072E988 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E2DA3791AC5D7FD0072E988 /* Model_EditorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model_EditorTests.swift; sourceTree = "<group>"; };
+		6E2DA3A91AC5D99B0072E988 /* CoreModel.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CoreModel.xcodeproj; path = ../CoreModel/CoreModel.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +60,7 @@
 		6E2DA3561AC5D7FD0072E988 = {
 			isa = PBXGroup;
 			children = (
+				6E2DA3A91AC5D99B0072E988 /* CoreModel.xcodeproj */,
 				6E2DA3611AC5D7FD0072E988 /* Model Editor */,
 				6E2DA3761AC5D7FD0072E988 /* Model EditorTests */,
 				6E2DA3601AC5D7FD0072E988 /* Products */,
